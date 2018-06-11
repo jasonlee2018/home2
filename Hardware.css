@@ -1,0 +1,86 @@
+body
+{
+ 	color:LightCyan;
+ 	text-align:justify;
+ 	background:url("Images/Hardware.jpg");
+	font-family: "Verdana", Arial, "Times New Roman";
+}
+#Nav 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightcyan;
+}
+
+.Nav 
+{
+    float: left;
+}
+
+.navlink
+{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navlink:hover 
+{
+    background-color: lightsteelblue;
+}
+h1
+{
+	text-align:center;
+}
+.orange
+{
+	color:#F0E68C;
+}
+img
+{
+	margin-left:10px;
+	object-fit:cover;
+	border-radius:8px;
+}
+p, h2, h3
+{
+	margin-right:100px;
+	margin-left:10px;
+	margin-top:20px;
+	margin-bottom:10px;
+}
+div a:hover
+{
+	background-color:lightblue;
+}
+#Selected
+{
+	background-color:lightblue;
+}
+h1
+{
+	display:block;
+	background-color:lightslategrey;
+}
+#banner
+{
+	margin-left:auto;
+}
+
+.center
+{
+	margin-left:25%;
+	margin-right:25%;
+	margin-top:50px;
+}
+#left
+{
+	margin-left:230px;
+}
+.orange:hover
+{
+	color:gold;
+}
